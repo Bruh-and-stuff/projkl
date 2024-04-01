@@ -1,0 +1,31 @@
+body{
+    background-color: tan;
+}
+
+#title{
+    font-family: monospace;
+    background-color: blanchedalmond;
+}
+p{
+    font-family: monospace;
+    font-size: 25px;
+}
+#prompt{
+    color: red;
+    font-size: 35px;
+    font-style: bold;
+}
+span{
+    font-family: monospace;
+    font-size: 20px;
+}
+#score{
+    color: greenyellow;
+    float: left;
+    margin-left: 10px;
+}
+#timer{
+    color: greenyellow;
+    float: right;
+    margin-right: 10px;
+}
